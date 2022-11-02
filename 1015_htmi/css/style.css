@@ -1,0 +1,30 @@
+body {
+    /* background: green; */
+  }
+  
+  h1 {
+    /* c 入力後　tabキー */
+    /* color: pink; */
+  }
+
+    /* h1 class='a' */
+    /* cssで表現するときは */
+    /* class は [.] ドットで表します🤗 */
+    /* h1 class='a' は .a */
+    /* .a {} */
+.a {
+    color: greenyellow;
+  }
+  
+.b {
+    color: red;
+}
+
+  .c {
+    color: blue;
+  }
+
+  .d {
+    color: pink;
+  }
+

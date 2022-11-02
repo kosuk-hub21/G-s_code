@@ -1,0 +1,11 @@
+.bb {
+    border: 2px solid #ccc;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: 2px 3px 10px rgb(0 0 0 / 30%);
+    width: 500px;
+    margin: 30px auto;
+    text-align: center;
+    display: none;
+  }
